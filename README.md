@@ -8,6 +8,11 @@ nodejs (>= 4.0)
 4. create .env file and add MONGODB_URI=mongodb+srv://your-username:your-password@cluster0.ffpseqv.mongodb.net/your-database replace with your username and password
 
 ### Endpoints
+- POST :https://hngx-stage-two-dr3d.onrender.com/api/
+- GET ALL :https://hngx-stage-two-dr3d.onrender.com/api/
+- GET ONE :https://hngx-stage-two-dr3d.onrender.com/api/id
+- DELETE ONE :https://hngx-stage-two-dr3d.onrender.com/api/id
+- UPDATE ONE :https://hngx-stage-two-dr3d.onrender.com/api/id
 ## GET all users  GET
 ![image](https://github.com/munyanezaarmel/Hngx-stage-two/assets/73389979/f4020ee3-282f-45ea-83e5-6d1ba917d55b)
 
